@@ -1,0 +1,26 @@
+What is  Statistics?
+
+Statistics is the discipline that concerns the collection , organization, analysis, interpretation and presentation of data.
+
+
+
+2 different types of stats:
+
+Descriptive Stats 
+--- Analyzing data,summarising data, organizing data in the form of numbers and graph
+--- Bar graph ,histograms,pie chart, pdf, cdf, etc.
+--- Measure of central tendency (mean, median, mode)
+--- Measure of variance (standard deviation, variance)
+
+Inferential Stats (Take sample of population and use data from that to make conclusion or infer from the data)
+---- Z Test _____
+---- T Test _____|---- Hypothesis
+
+
+
+Main difference between descriptive and inferential statistics
+
+Deferential Stats is used to decribe the data in form of visualizations where as inferential statistics uses same data to conclude from it
+For eg. 100 people from Jaipur is asked "Is Xavier's still worthy school" people will anwer in yes or no.
+
+we can either plot these yes or no in form of bar graph or pie chart or else we can say that some 'x' percentage of people think that Xavier's is worthy this is inferential stats 
